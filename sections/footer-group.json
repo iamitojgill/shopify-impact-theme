@@ -99,25 +99,17 @@
             "content": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "About Savrin & Co.",
+            "content": "<p>At <strong>Savrin & Co.</strong>, we believe luxury should be defined by craftsmanship, not by inflated price tags.</p><p>We don’t follow industry markups—we redefine them. By delivering directly to you, we make true luxury accessible without compromise.</p><p>A <strong>Savrin & Co.</strong> watch isn’t just an accessory; it’s a statement. Because real luxury isn’t about exclusivity—it’s about authenticity.</p>",
             "enable_follow_on_shop": true
           }
         }
       },
       "block_order": [
         "newsletter",
-        "links",
         "text"
       ],
       "settings": {
