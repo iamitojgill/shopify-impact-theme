@@ -302,13 +302,14 @@
         "item_r37bH6",
         "item_DMPqGr"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "Have a question ? We are here to help.",
-        "content": "<h6>Check out the most common questions our customers asked. Still have questions?  Contact our customer support.<br/><br/><br/></h6>",
-        "team_avatar": "shopify://shop_images/ChatGPT_Image_Jun_24_2025_05_05_15_PM.png",
+        "content": "<h6>Check out the most common questions our customers asked. Same questions?  Contact our customer support.<br/><br/></h6>",
+        "team_avatar": "shopify://shop_images/ChatGPT_Image_Jun_24_2025_05_18_41_PM.png",
         "team_avatar_width": 170,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -324,91 +325,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "text_with_icons_ByXTEW": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_63KwXK": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-envelope",
-            "custom_icon": "shopify://shop_images/unnamed-2_180x_4629e098-6446-4091-8877-5089278423e6_webp.webp",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Worldwide Shipping",
-            "content": "<p>We deliver across the globe with fast and reliable shipping. Your Savrin & Co. timepiece is securely packaged and delivered with care.<br/><br/></p>"
-          }
-        },
-        "item_Qprdzf": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/unnamed-4_180x_efe644af-27b7-4d3b-9686-393c66289835_webp.webp",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "30-Day Money-Back Guarantee",
-            "content": "<p>We stand behind our craftsmanship. If you're not completely satisfied, return your watch within 30 days for a full refund—no questions asked.<br/><br/></p>"
-          }
-        },
-        "item_GeyAJy": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_63KwXK",
-        "item_Qprdzf",
-        "item_GeyAJy"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "press": {
@@ -439,6 +355,7 @@
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -496,6 +413,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "",
@@ -548,6 +466,7 @@
         "1664424486a2b084ab-0",
         "1664424486a2b084ab-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "images_layout": "scattered",
@@ -636,6 +555,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "",
@@ -744,6 +664,7 @@
         "16644246508f6fa13a-1",
         "16644246508f6fa13a-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "Compare",
@@ -787,6 +708,13 @@
             "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
+        "item_dVzHcd": {
+          "type": "item",
+          "settings": {
+            "title": "How do i return or exchange my Watch?",
+            "content": "<p>To initiate a return or exchange, please contact our customer support team. We will provide you with return instructions and a prepaid shipping label if applicable.<br/><br/></p>"
+          }
+        },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
@@ -798,13 +726,14 @@
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
+        "item_dVzHcd",
         "166442457738b23caf-2"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Have a question ? We are here to help.",
+        "content": "<p>Check out the most common questions our customers asked. Still have questions?  Contact our customer support.</p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -821,6 +750,70 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "text_with_icons_ByXTEW": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_63KwXK": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-envelope",
+            "custom_icon": "shopify://shop_images/unnamed-2_180x_4629e098-6446-4091-8877-5089278423e6_webp.webp",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Worldwide Shipping",
+            "content": "<p>We deliver across the globe with fast and reliable shipping. Your Savrin & Co. timepiece is securely packaged and delivered with care.<br/><br/></p>"
+          }
+        },
+        "item_Qprdzf": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/unnamed-4_180x_efe644af-27b7-4d3b-9686-393c66289835_webp.webp",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "30-Day Money-Back Guarantee",
+            "content": "<p>We stand behind our craftsmanship. If you're not completely satisfied, return your watch within 30 days for a full refund—no questions asked.<br/><br/></p>"
+          }
+        },
+        "item_GeyAJy": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/unnamed-3_180x_1d11ff2a-04a7-408b-900e-e2291d87790a_webp.gif",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Shop with confidence. We offer secure, encrypted payment options to ensure your transactions are safe and protected.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_63KwXK",
+        "item_Qprdzf",
+        "item_GeyAJy"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -831,13 +824,12 @@
     "timeline_xmTcfp",
     "shop_the_look_dLq4hE",
     "faq_NNPN6X",
-    "text_with_icons_ByXTEW",
-    "before-after-image",
     "press",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq"
+    "faq",
+    "text_with_icons_ByXTEW"
   ]
 }
