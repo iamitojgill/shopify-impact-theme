@@ -182,10 +182,11 @@
         "slide_gQBbW6": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/0707055_poedagar-613-luxury-stainless-steel-strap-watch-black-dial.webp",
             "navigation_label": "1966",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "subheading": "The Truth About Luxury",
+            "title": "THE TRUTH",
+            "content": "<p>Today Savrin & Co. is a movement embraced by collectors who value quality over hype. It stands against overpriced prestige and proves that exceptional craftsmanship doesn’t require a $10,000 price tag. Luxury should be about appreciation, not exclusivity. A watch should be an investment in style, not in marketing gimmicks.</p><p>Montclair & Co. delivers the same precision, refinement, and prestige as the world’s top brands—without the excess.</p>"
           }
         }
       },
@@ -200,6 +201,128 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "shop_the_look_dLq4hE": {
+      "type": "shop-the-look",
+      "blocks": {
+        "product_iBygeU": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "horizontal_position": 52,
+            "vertical_position": 25
+          }
+        },
+        "product_Hh3BWm": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "horizontal_position": 75,
+            "vertical_position": 53
+          }
+        },
+        "product_DWhnAU": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "horizontal_position": 33,
+            "vertical_position": 73
+          }
+        },
+        "product_A3XbXd": {
+          "type": "product",
+          "settings": {
+            "product": "serenade-42mm",
+            "horizontal_position": 30,
+            "vertical_position": 30
+          }
+        }
+      },
+      "block_order": [
+        "product_iBygeU",
+        "product_Hh3BWm",
+        "product_DWhnAU",
+        "product_A3XbXd"
+      ],
+      "name": "Shop the look",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "image": "shopify://shop_images/il_1588xN.6628144863_sh5n-topaz-upscale-2x.webp",
+        "title": "Shop the look",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "product_card_mobile_background": "",
+        "product_card_mobile_text_color": "",
+        "background_dots": "#FFF"
+      }
+    },
+    "faq_NNPN6X": {
+      "type": "faq",
+      "blocks": {
+        "item_QPbPUL": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_AR77Ki": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_DMPqGr": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_r37bH6": {
+          "type": "item",
+          "settings": {
+            "title": "How do i return or exchange my watch?",
+            "content": "<p>To initiate a return or exchange, please contact our customer support team. We will provide you with return instructions and a prepaid shipping label if applicable.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_QPbPUL",
+        "item_AR77Ki",
+        "item_DMPqGr",
+        "item_r37bH6"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Have a question ? We are here to help.",
+        "content": "<h6>Check out the most common questions our customers asked. Still have questions?  Contact our customer support.<br/><br/><br/></h6>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "before-after-image": {
@@ -642,6 +765,8 @@
     "impact-text",
     "image-with-text-overlay",
     "timeline_xmTcfp",
+    "shop_the_look_dLq4hE",
+    "faq_NNPN6X",
     "before-after-image",
     "press",
     "hot-spots",
