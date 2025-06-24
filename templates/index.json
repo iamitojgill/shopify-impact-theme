@@ -16,12 +16,12 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Main1.webp",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 740,
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
-            "title": "Luxury Watches Without Luxury     Markup.",
-            "heading_tag": "h1",
+            "title": "Luxury Watches                                Without  the     Luxury  Markup.",
+            "heading_tag": "h4",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -49,188 +49,24 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
-      ],
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "featured-collection": {
+    "featured_collection_KR7wET": {
       "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "kings-oak-41mm",
+          "nautilus-41mm",
+          "titan-rose-gold-40mm"
+        ],
         "full_width": true,
         "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
+        "show_progress_bar": true,
+        "products_count": 2,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_desktop": 2,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Bestsellers",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -250,7 +86,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Inspired by Swiss luxury,made for modern ambition",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -284,20 +120,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": ""
           }
         }
       },
@@ -311,6 +147,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/RELO_A_GREEN_01_2v1742325732width720-ezgif.com-speed.webp",
+        "mobile_image": "shopify://shop_images/RELO_A_GREEN_01_2v1742325732width720-ezgif.com-speed.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -318,107 +156,50 @@
         "overlay_opacity": 30
       }
     },
-    "media-grid": {
-      "type": "media-grid",
+    "timeline_xmTcfp": {
+      "type": "timeline",
       "blocks": {
-        "item-1": {
-          "type": "image",
+        "slide_f64cWe": {
+          "type": "slide",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "image": "shopify://shop_images/a-page-from-a-book-with-a-white-spine-th_sZXOENvgRVqlM7yXBnlGdg_i2-U48GvTeO8ngZOlYzyNQ.webp",
+            "navigation_label": "1953",
+            "subheading": "Craftsmanship Without Compromise",
+            "title": "THE VISION",
+            "content": "<p>Montclair & Co. was born from a simple yet radical idea: <strong>Luxury shouldn’t be defined by an inflated price tag.</strong> Étienne Montclair, a master Swiss watchmaker, had spent decades perfecting timepieces for elite brands—only to watch the industry prioritize exclusivity over craftsmanship. Watches that cost mere hundreds to produce were being sold for tens of thousands.</p><h6>He believed true luxury lies in precision, design, and quality—not artificial prestige. So he set out to redefine the standard.</h6>"
           }
         },
-        "item-2": {
-          "type": "image",
+        "slide_QhzB4i": {
+          "type": "slide",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "image": "shopify://shop_images/a-raw-unrefined-sketch-of-a-wristwatch-c_RAXKWvmsSa6X3iObEe9Zfw_7iq1h4Z0Q--ZkDLCxb37iw.webp",
+            "navigation_label": "1960",
+            "subheading": "Precision Engineering, Honest Pricing",
+            "title": "THE CRAFT",
+            "content": "<p>Savrin & Co. was built on an unwavering principle: A watch should be valued for its craftsmanship, not its marketing budget.</p><p>Every Montclair timepiece is made with the same premium materials used by the world’s leading brands—316L stainless steel for durability, sapphire crystal glass for clarity and scratch resistance, and precision Swiss and Japanese movements for unparalleled accuracy and reliability.</p><p>Luxury, without the markups</p>"
           }
         },
-        "item-3": {
-          "type": "image",
+        "slide_gQBbW6": {
+          "type": "slide",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "29246d34-c6e0-4373-84f6-b15e57736a00": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "navigation_label": "1966",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "item-1",
-        "item-2",
-        "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
+        "slide_f64cWe",
+        "slide_QhzB4i",
+        "slide_gQBbW6"
       ],
+      "name": "Timeline",
       "settings": {
         "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
         "background": "",
-        "background_gradient": ""
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "before-after-image": {
@@ -857,13 +638,10 @@
   },
   "order": [
     "slideshow",
-    "image-link-blocks",
-    "scrolling-text",
-    "collection-list",
-    "featured-collection",
+    "featured_collection_KR7wET",
     "impact-text",
     "image-with-text-overlay",
-    "media-grid",
+    "timeline_xmTcfp",
     "before-after-image",
     "press",
     "hot-spots",
