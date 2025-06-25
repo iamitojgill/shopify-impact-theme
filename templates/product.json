@@ -69,6 +69,12 @@
             "size_chart_page": ""
           }
         },
+        "text_beLGz6": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Free Worldwide Shipping</li><li>30-Day Money Back Guarantee</li><li>Secure Payments with Paypal</li></ul><p><strong>LOW STOCK -</strong>last pieces left<br/><br/></p>"
+          }
+        },
         "invints_badges_icons_app_block_yaRKhk": {
           "type": "shopify://apps/invints-badges-icons/blocks/app-block/399a3c88-6352-4e32-a787-3f41344a58b3",
           "settings": {
@@ -145,6 +151,7 @@
         "separator",
         "description",
         "variant_picker",
+        "text_beLGz6",
         "invints_badges_icons_app_block_yaRKhk",
         "quantity_selector",
         "separator_bXYrgD",
