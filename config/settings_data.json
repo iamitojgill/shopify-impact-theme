@@ -45,7 +45,7 @@
     "blocks": {
       "349079152532112293": {
         "type": "shopify://apps/invints-badges-icons/blocks/app-embed/399a3c88-6352-4e32-a787-3f41344a58b3",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "custom_css": ""
         }
