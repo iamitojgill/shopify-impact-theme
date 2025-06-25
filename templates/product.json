@@ -17,6 +17,12 @@
           "disabled": true,
           "settings": {}
         },
+        "liquid_WF479R": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 8px; margin-top: 8px;\">\n  <!-- Green Star Rating -->\n  <div style=\"color: #00B517; font-size: 16px; line-height: 1;\">\n    ★ ★ ★ ★ ★\n  </div>\n\n  <!-- Rating Text -->\n  <div style=\"font-size: 14px; color: #000;\">\n    <strong>4.7 / 5.0</strong> based on 1837+ reviews\n  </div>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -77,16 +83,11 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "liquid_WF479R": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
-          }
         }
       },
       "block_order": [
         "vendor",
+        "liquid_WF479R",
         "title",
         "badges",
         "price",
@@ -96,8 +97,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "liquid_WF479R"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
