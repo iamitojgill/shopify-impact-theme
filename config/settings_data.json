@@ -39,7 +39,16 @@
     "product_info_alignment": "center",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "349079152532112293": {
+        "type": "shopify://apps/invints-badges-icons/blocks/app-embed/399a3c88-6352-4e32-a787-3f41344a58b3",
+        "disabled": false,
+        "settings": {
+          "custom_css": ""
+        }
+      }
+    }
   },
   "presets": {
     "Sound": {
