@@ -97,6 +97,13 @@
             "payment_button_text_color": ""
           }
         },
+        "invints_badges_icons_app_block_V8YFE8": {
+          "type": "shopify://apps/invints-badges-icons/blocks/app-block/399a3c88-6352-4e32-a787-3f41344a58b3",
+          "settings": {
+            "type": "all",
+            "id": ""
+          }
+        },
         "offer_GtQTEk": {
           "type": "offer",
           "settings": {
@@ -126,6 +133,7 @@
         "quantity_selector",
         "text_Gb64tM",
         "buy_buttons",
+        "invints_badges_icons_app_block_V8YFE8",
         "offer_GtQTEk"
       ],
       "settings": {
