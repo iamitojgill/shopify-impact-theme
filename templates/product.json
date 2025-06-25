@@ -80,11 +80,9 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "text_Gb64tM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share some content to your customers about your products.</p>"
-          }
+        "separator_bXYrgD": {
+          "type": "separator",
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -112,9 +110,27 @@
             "icon": "picto-award-gift",
             "icon_width": 24,
             "title": "BUY 1, GET 1 FREE",
-            "content": "<p>For a limited time,</p><p> <strong>get two premium watches for the price of one. </strong>Perfect for your collection—or gifting to someone who appreciates smart luxury.</p>",
+            "content": "<p>For a limited time, <strong>get two premium watches </strong>for the price of one<strong>. </strong>Perfect for your collection—or gifting to someone who appreciates smart luxury.</p>",
             "background": "#eaf2ed",
             "text_color": "#00a341"
+          }
+        },
+        "separator_kF9VBB": {
+          "type": "separator",
+          "settings": {}
+        },
+        "offer_LFezwn": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/ChatGPT_Image_Jun_24_2025_05_02_07_PM.png",
+            "icon_width": 40,
+            "title": "Lisa, Marc and 18,520+  are wearing Savrin & Co",
+            "content": "",
+            "background": "#f5f5f5",
+            "text_color": "#1a1a1a"
           }
         }
       },
@@ -131,10 +147,12 @@
         "variant_picker",
         "invints_badges_icons_app_block_yaRKhk",
         "quantity_selector",
-        "text_Gb64tM",
+        "separator_bXYrgD",
         "buy_buttons",
         "invints_badges_icons_app_block_V8YFE8",
-        "offer_GtQTEk"
+        "offer_GtQTEk",
+        "separator_kF9VBB",
+        "offer_LFezwn"
       ],
       "settings": {
         "full_width": true,
@@ -157,7 +175,21 @@
     "collection_list_r6fa8V": {
       "type": "collection-list",
       "blocks": {
-        "collection_j7r8pP": {
+        "collection_GbF9tw": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_HdrrcM": {
           "type": "collection",
           "settings": {
             "collection": "",
@@ -198,13 +230,45 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_ttRTiW": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_aQU9M4": {
+          "type": "collection",
+          "settings": {
+            "collection": "you-may-also-like",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
-        "collection_j7r8pP",
+        "collection_GbF9tw",
+        "collection_HdrrcM",
         "collection_hHrjnt",
-        "collection_kFRmnR"
+        "collection_kFRmnR",
+        "collection_ttRTiW",
+        "collection_aQU9M4"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -214,7 +278,7 @@
         "subheading": "",
         "title": "Collection list",
         "content": "",
-        "link_url": "shopify://collections/all",
+        "link_url": "shopify://products/titan-rose-gold-40mm",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
@@ -223,15 +287,23 @@
         "heading_gradient": ""
       }
     },
-    "related-products": {
+    "related_products_Un7LBz": {
       "type": "related-products",
+      "custom_css": [],
+      "name": "Related products",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
+        "recommendations_count": 3,
+        "products": [
+          "titan-rose-gold-40mm",
+          "nautilus-41mm",
+          "kings-oak-41mm",
+          "oak-41mm",
+          "serenade-42mm"
+        ],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "You may also like",
@@ -244,43 +316,11 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "video_amGwmg": {
-      "type": "video",
-      "blocks": {
-        "play_f7TmeJ": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_TGFNAd": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_f7TmeJ",
-        "heading_TGFNAd"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
     "main",
     "collection_list_r6fa8V",
-    "related-products",
-    "video_amGwmg"
+    "related_products_Un7LBz"
   ]
 }

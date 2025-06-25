@@ -11,91 +11,244 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "text-with-icons": {
-      "type": "text-with-icons",
+    "multiple_images_with_text_HgEbtf": {
+      "type": "multiple-images-with-text",
       "blocks": {
-        "item_rx6tHX": {
+        "item_4hqqwN": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/unnamed-2_180x_4629e098-6446-4091-8877-5089278423e6_webp.gif",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Heading",
-            "content": "<p>Short content about your store</p>"
-          }
-        },
-        "free-shipping": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
-          }
-        },
-        "discount": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
-          }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "image": "shopify://shop_images/0707055_poedagar-613-luxury-stainless-steel-strap-watch-black-dial.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Sapphire Crystal Glass",
+            "content": "<p>Second only to diamond in hardness, sapphire crystal offers <strong>superior scratch resistance and long-term clarity</strong>, </p><p>keeping your watch face pristine through years of wear.<br/><br/></p>",
+            "button_url": "",
+            "button_text": ""
           }
         }
       },
       "block_order": [
-        "item_rx6tHX",
-        "free-shipping",
-        "customer-support",
-        "discount",
-        "payment"
+        "item_4hqqwN"
       ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "multiple_images_with_text_4XdYH9": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_fEgGkT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/il_1588xN.6628144863_sh5n-topaz-upscale-2x.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Eliminating the Luxury Price Tag",
+            "content": "<p>Traditional luxury watch brands charge thousands—not because of better materials or craftsmanship, but because of inflated branding. At Savenir & Co., we’ve removed the unnecessary.<strong>You get the same premium components and refined design—without the markup.</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_fEgGkT"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "faq_wQCtaa": {
+      "type": "faq",
+      "blocks": {
+        "item_cMHmkY": {
+          "type": "item",
+          "settings": {
+            "title": "How can I be sure the watch will fit perfectly?",
+            "content": "<p>Each Savrin & Co. watch comes with an<strong>adjustable strap or bracelet</strong>, allowing you to achieve a tailored fit. For metal bracelets, we include extra links and an easy-to-use adjustment tool. Need further assistance? Our team is happy to hel<br/><br/></p>"
+          }
+        },
+        "item_PNLFtb": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my watch?",
+            "content": "<p>At Savenir & Co., we ensure fast, secure, and fully tracked shipping worldwide.</p><p><strong>Order Processing:</strong> 24-72 hours</p><p><strong>Estimated Delivery Times:</strong><br/></p><ul><li>Europe & United States: 5-15 business days</li><li>Rest of the World: 7-15 business days<br/></li></ul><p>Full Shipping Protection<strong>:</strong> Every order is fully insured at no extra cost</p><p>Real-Time Tracking: Detailed tracking information provided with every shipment</p><p>All orders are carefully packaged and shipped with precision, ensuring your timepiece arrives safely and on time.</p>"
+          }
+        },
+        "item_bRYAxh": {
+          "type": "item",
+          "settings": {
+            "title": "What if my watch arrives damaged?",
+            "content": "<p>At Savenir  & Co., your satisfaction is our priority. We offer a <strong>30-day money-back guarantee - </strong>if you're not completely happy with your watch, you can return it for a full refund.</p><p>Every Montclair timepiece is also backed by a 2-year warranty, covering any manufacturing defects or craftsmanship issues.</p><p>If you experience any problems within this period, we will repair or replace your watch at no cost.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_cMHmkY",
+        "item_PNLFtb",
+        "item_bRYAxh"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Frequently Asked Questions<br/><br/></p>",
+        "team_avatar": "shopify://shop_images/download.jpg",
+        "team_avatar_width": 110,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "media_with_text_NWQ3w6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_hzTVbh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Semnome_500x500px_9_bea873fa-000d-4d5d-8a71-2b02f7f671f2.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Our Mission: Making Luxury Accessible",
+            "content": "<p>Savrin & Co. exists to challenge the conventions of overpriced luxury. We believe <strong>true value lies in craftsmanship—not marketing.</strong>Our goal is to make refined, lasting timepieces available to those who appreciate quality, without compromise.<br/><br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#0e3d28",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hzTVbh"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "image_with_text_overlay_LMyqWf": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_RGR6Hz": {
+          "type": "heading",
+          "settings": {
+            "text": "Designed In Europe. Worn Everywhere.",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RGR6Hz"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/RELO_A_GREEN_01_2v1742325732width720-ezgif.com-speed_1.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "text_with_icons_8fqmkB": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_bBXQyj": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/unnamed-2_180x_4629e098-6446-4091-8877-5089278423e6_webp.gif",
+            "mobile_icon_width": 44,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_JAXG7a": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/unnamed-4_180x_efe644af-27b7-4d3b-9686-393c66289835_webp.webp",
+            "mobile_icon_width": 44,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "30-Day Money-Back Guarantee",
+            "content": "<p>We stand behind our craftsmanship. If you're not completely satisfied, return your watch within 30 days for a full refund—no questions asked.<br/><br/></p>"
+          }
+        },
+        "item_4hGVnt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/unnamed-3_180x_1d11ff2a-04a7-408b-900e-e2291d87790a_webp.gif",
+            "mobile_icon_width": 40,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Shop with confidence. We offer secure, encrypted payment options to ensure your transactions are safe and protected.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_bBXQyj",
+        "item_JAXG7a",
+        "item_4hGVnt"
+      ],
+      "name": "Text with icons",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h6",
+        "heading_tag": "h4",
         "text_alignment": "center",
-        "icon_spacing": "small",
+        "icon_spacing": "medium",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -137,7 +290,12 @@
     }
   },
   "order": [
-    "text-with-icons",
+    "multiple_images_with_text_HgEbtf",
+    "multiple_images_with_text_4XdYH9",
+    "faq_wQCtaa",
+    "media_with_text_NWQ3w6",
+    "image_with_text_overlay_LMyqWf",
+    "text_with_icons_8fqmkB",
     "footer"
   ]
 }
