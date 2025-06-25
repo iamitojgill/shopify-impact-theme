@@ -65,13 +65,19 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_mode": "block",
-            "color_mode": "color",
+            "color_mode": "variant",
             "size_chart_page": ""
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
+        },
+        "text_Gb64tM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share some content to your customers about your products.</p>"
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -97,6 +103,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "text_Gb64tM",
         "buy_buttons"
       ],
       "settings": {
