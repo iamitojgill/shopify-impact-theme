@@ -14,6 +14,20 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
+        "item_rx6tHX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/unnamed-2_180x_4629e098-6446-4091-8877-5089278423e6_webp.gif",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Heading",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
         "free-shipping": {
           "type": "item",
           "disabled": true,
@@ -69,12 +83,12 @@
         }
       },
       "block_order": [
+        "item_rx6tHX",
         "free-shipping",
         "customer-support",
         "discount",
         "payment"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
