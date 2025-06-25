@@ -20,7 +20,7 @@
         "liquid_WF479R": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; gap: 8px; margin-top: 8px;\">\n  <!-- Green Star Rating -->\n  <div style=\"color: #00B517; font-size: 16px; line-height: 1;\">\n    ★ ★ ★ ★ ★\n  </div>\n\n  <!-- Rating Text -->\n  <div style=\"font-size: 14px; color: #000;\">\n    <strong>4.7 / 5.0</strong> based on 1837+ reviews\n  </div>\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 8px; margin-top: 8px; font-family: inherit;\">\n  <!-- 4.7 Green Stars (with half star) -->\n  <div style=\"color: #0E3D28; font-size: 16px; line-height: 1;\">\n    ★ ★ ★ ★ <span style=\"position: relative; display: inline-block; width: 16px; overflow: hidden;\">\n      <span style=\"color: #0E3D28;\">★</span>\n      <span style=\"color: #ccc; position: absolute; left: 8px;\">★</span>\n    </span>\n  </div>\n\n  <!-- Rating Text -->\n  <div style=\"font-size: 14px; color: #000;\">\n    <strong>4.7 / 5.0</strong> based on 1837+ reviews\n  </div>\n</div>"
           }
         },
         "title": {
