@@ -63,7 +63,7 @@
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
-            "stack_blocks": false,
+            "stack_blocks": true,
             "selector_mode": "block",
             "color_mode": "variant",
             "size_chart_page": ""
