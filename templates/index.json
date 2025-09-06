@@ -49,6 +49,76 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "collection_list_RcE3Hf": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_xYwN76": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6dbdqL": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_e87ACC": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_xYwN76",
+        "collection_6dbdqL",
+        "collection_e87ACC"
+      ],
+      "disabled": true,
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection list",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "feature_chart_D4P3WV": {
       "type": "feature-chart",
       "blocks": {
@@ -164,36 +234,6 @@
         "chart_background": "",
         "chart_text_color": "",
         "chart_true_false_color": ""
-      }
-    },
-    "featured_collection_KR7wET": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "",
-        "products": [
-          "kings-oak-41mm",
-          "nautilus-41mm",
-          "titan-rose-gold-40mm"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 3,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 2,
-        "subheading": "",
-        "title": "Bestsellers",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "impact-text": {
@@ -902,8 +942,8 @@
   },
   "order": [
     "slideshow",
+    "collection_list_RcE3Hf",
     "feature_chart_D4P3WV",
-    "featured_collection_KR7wET",
     "impact-text",
     "image-with-text-overlay",
     "timeline_xmTcfp",
