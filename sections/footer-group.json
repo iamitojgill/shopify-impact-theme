@@ -18,9 +18,9 @@
           "type": "item",
           "settings": {
             "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Sapphire Crystal Glass",
-            "content": "<p>Second only to diamond in hardness, sapphire crystal offers <strong>superior scratch resistance and long-term clarity</strong>, </p><p>keeping your watch face pristine through years of wear.<br/><br/></p>",
+            "subheading": "Why This Show",
+            "title": "The Only Stop in Canada",
+            "content": "<p><br/>oronto is the <strong>only city still available</strong> — every other show worldwide is already <strong>SOLD OUT</strong>. Don’t miss your chance to be part of history.<br/><br/><br/></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -29,6 +29,7 @@
       "block_order": [
         "item_4hqqwN"
       ],
+      "disabled": true,
       "name": "Multiple images with text",
       "settings": {
         "full_width": true,
@@ -59,6 +60,7 @@
       "block_order": [
         "item_fEgGkT"
       ],
+      "disabled": true,
       "name": "Multiple images with text",
       "settings": {
         "full_width": true,
@@ -77,39 +79,47 @@
         "item_cMHmkY": {
           "type": "item",
           "settings": {
-            "title": "How can I be sure the watch will fit perfectly?",
-            "content": "<p>Each Savrin & Co. watch comes with an<strong>adjustable strap or bracelet</strong>, allowing you to achieve a tailored fit. For metal bracelets, we include extra links and an easy-to-use adjustment tool. Need further assistance? Our team is happy to hel<br/><br/></p>"
+            "title": "Basic Pass ($70)",
+            "content": "<p><br/> Standard seating with full show access<br/><br/><br/></p>"
           }
         },
         "item_PNLFtb": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my watch?",
-            "content": "<p>At Savenir & Co., we ensure fast, secure, and fully tracked shipping worldwide.</p><p><strong>Order Processing:</strong> 24-72 hours</p><p><strong>Estimated Delivery Times:</strong><br/></p><ul><li>Europe & United States: 5-15 business days</li><li>Rest of the World: 7-15 business days<br/></li></ul><p>Full Shipping Protection<strong>:</strong> Every order is fully insured at no extra cost</p><p>Real-Time Tracking: Detailed tracking information provided with every shipment</p><p>All orders are carefully packaged and shipped with precision, ensuring your timepiece arrives safely and on time.</p>"
+            "title": "Premium Pass ($299)",
+            "content": "<p>Closer view + better seats for an upgraded experience<br/><br/></p>"
           }
         },
         "item_bRYAxh": {
           "type": "item",
           "settings": {
-            "title": "What if my watch arrives damaged?",
-            "content": "<p>At Savenir  & Co., your satisfaction is our priority. We offer a <strong>30-day money-back guarantee - </strong>if you're not completely happy with your watch, you can return it for a full refund.</p><p>Every Montclair timepiece is also backed by a 2-year warranty, covering any manufacturing defects or craftsmanship issues.</p><p>If you experience any problems within this period, we will repair or replace your watch at no cost.</p>"
+            "title": "Front Row Experience ($499)",
+            "content": "<p>Right at the stage, the ultimate fan energy.<br/><br/></p>"
+          }
+        },
+        "item_GGtXjW": {
+          "type": "item",
+          "settings": {
+            "title": "All-Access / Meet & Greet ($999)",
+            "content": "<p>Includes <em>backstage pass + personal photo opportunity with the artist</em>.<br/><br/></p>"
           }
         }
       },
       "block_order": [
         "item_cMHmkY",
         "item_PNLFtb",
-        "item_bRYAxh"
+        "item_bRYAxh",
+        "item_GGtXjW"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Frequently Asked Questions<br/><br/></p>",
+        "subheading": "What ticket options are available?",
+        "title": "",
+        "content": "<p><br/><br/><br/></p>",
         "team_avatar_width": 110,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "All tickets are delivered instantly via email (QR code). No box office sales at the stadium.",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -126,32 +136,7 @@
     },
     "media_with_text_NWQ3w6": {
       "type": "media-with-text",
-      "blocks": {
-        "image_hzTVbh": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Our Mission: Making Luxury Accessible",
-            "content": "<p>Savrin & Co. exists to challenge the conventions of overpriced luxury. We believe <strong>true value lies in craftsmanship—not marketing.</strong>Our goal is to make refined, lasting timepieces available to those who appreciate quality, without compromise.<br/><br/></p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#0e3d28",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_hzTVbh"
-      ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -163,6 +148,7 @@
       "blocks": {
         "heading_RGR6Hz": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Designed In Europe. Worn Everywhere.",
             "heading_tag": "h1"
@@ -172,6 +158,7 @@
       "block_order": [
         "heading_RGR6Hz"
       ],
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -190,6 +177,7 @@
       "blocks": {
         "item_bBXQyj": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "mobile_icon_width": 44,
@@ -233,6 +221,7 @@
         "item_JAXG7a",
         "item_4hGVnt"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
