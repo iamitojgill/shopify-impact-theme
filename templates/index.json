@@ -122,10 +122,6 @@
     "featured_product_dmYVaf": {
       "type": "featured-product",
       "blocks": {
-        "vendor_hWBkcE": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_6yRN7p": {
           "type": "title",
           "settings": {
@@ -156,6 +152,12 @@
           "type": "description",
           "settings": {
             "collapse_content": false
+          }
+        },
+        "text_ACCRCf": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Tickets are selling fast — available exclusively online.</strong><br/><br/>🎟️ <em>No tickets will be sold at the venue.</em></p>"
           }
         },
         "variant_picker_ddrLic": {
@@ -189,13 +191,13 @@
         }
       },
       "block_order": [
-        "vendor_hWBkcE",
         "title_6yRN7p",
         "badges_wkA8Ye",
         "price_zmdMEK",
         "rating_mafA9g",
         "separator_dLpqMr",
         "description_EQrxWG",
+        "text_ACCRCf",
         "variant_picker_ddrLic",
         "quantity_selector_QXDw8d",
         "buy_buttons_VKWCHn",
