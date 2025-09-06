@@ -114,7 +114,7 @@
       "name": "FAQ",
       "settings": {
         "full_width": true,
-        "subheading": "What ticket options are available?",
+        "subheading": "",
         "title": "",
         "content": "<p><br/><br/><br/></p>",
         "team_avatar_width": 110,
