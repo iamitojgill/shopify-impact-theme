@@ -17,14 +17,14 @@
         "message_MceYYh": {
           "type": "message",
           "settings": {
-            "text": "BUY 1 GET 1 FREE",
+            "text": "Only a Few Tickets Left – Don’t Miss Out!",
             "url": ""
           }
         },
         "message_aDm7VF": {
           "type": "message",
           "settings": {
-            "text": "FREE SHIPPING TODAY",
+            "text": "This Show Will Sell Out Fast – Secure Your Spot Now!",
             "url": ""
           }
         }
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ChatGPT_Image_Jun_24_2025_06_53_00_PM.png",
         "logo_max_width": 40,
         "logo_mobile_max_width": 55,
         "menu": "main-menu",
