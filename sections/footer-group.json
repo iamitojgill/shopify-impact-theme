@@ -17,7 +17,6 @@
         "item_4hqqwN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/0707055_poedagar-613-luxury-stainless-steel-strap-watch-black-dial.jpg",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Sapphire Crystal Glass",
@@ -48,7 +47,6 @@
         "item_fEgGkT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/il_1588xN.6628144863_sh5n-topaz-upscale-2x.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Eliminating the Luxury Price Tag",
@@ -109,7 +107,6 @@
         "subheading": "",
         "title": "FAQ",
         "content": "<p>Frequently Asked Questions<br/><br/></p>",
-        "team_avatar": "shopify://shop_images/download.jpg",
         "team_avatar_width": 110,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -133,7 +130,6 @@
         "image_hzTVbh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Semnome_500x500px_9_bea873fa-000d-4d5d-8a71-2b02f7f671f2.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -182,7 +178,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/RELO_A_GREEN_01_2v1742325732width720-ezgif.com-speed_1.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -197,7 +192,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/unnamed-2_180x_4629e098-6446-4091-8877-5089278423e6_webp.gif",
             "mobile_icon_width": 44,
             "icon_width": 32,
             "icon_background_type": "none",
@@ -211,7 +205,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/unnamed-4_180x_efe644af-27b7-4d3b-9686-393c66289835_webp.webp",
             "mobile_icon_width": 44,
             "icon_width": 32,
             "icon_background_type": "none",
@@ -225,7 +218,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/unnamed-3_180x_1d11ff2a-04a7-408b-900e-e2291d87790a_webp.gif",
             "mobile_icon_width": 40,
             "icon_width": 32,
             "icon_background_type": "none",
@@ -268,6 +260,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "About Savrin & Co.",
             "content": "<p>At <strong>Savrin & Co.</strong>, we believe luxury should be defined by craftsmanship, not by inflated price tags.</p><p>We don’t follow industry markups—we redefine them. By delivering directly to you, we make true luxury accessible without compromise.</p><p>A <strong>Savrin & Co.</strong> watch isn’t just an accessory; it’s a statement. Because real luxury isn’t about exclusivity—it’s about authenticity.</p>",
@@ -279,6 +272,7 @@
         "newsletter",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,

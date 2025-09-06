@@ -18,8 +18,8 @@
             "image": "shopify://shop_images/ed326614556cc9c140a5621f80b5fd54.jpg",
             "content_max_width": 740,
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-start-center sm:text-center",
-            "subheading": "",
+            "desktop_text_position": "sm:place-self-center-end sm:text-end",
+            "subheading": "One Night. One Stage. Don’t Miss the Hottest Show of the Year.",
             "title": "P-POP CULTURE LIVE",
             "heading_tag": "h1",
             "button_text": "",
@@ -202,12 +202,12 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Inspired by Swiss luxury,made for modern ambition",
+            "title": "95% Tickets Sold",
+            "subheading": "P-POP CULTURE LIVE – TORONTO",
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         }
@@ -264,6 +264,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/karan-aujla-at-the-2024-juno-awards-in-halifax.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -277,28 +278,31 @@
         "slide_f64cWe": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1953",
-            "subheading": "Craftsmanship Without Compromise",
-            "title": "THE VISION",
-            "content": "<p>Montclair & Co. was born from a simple yet radical idea: <strong>Luxury shouldn’t be defined by an inflated price tag.</strong> Étienne Montclair, a master Swiss watchmaker, had spent decades perfecting timepieces for elite brands—only to watch the industry prioritize exclusivity over craftsmanship. Watches that cost mere hundreds to produce were being sold for tens of thousands.</p><h6>He believed true luxury lies in precision, design, and quality—not artificial prestige. So he set out to redefine the standard.</h6>"
+            "image": "shopify://shop_images/6ba41d45fd75ae46cb2e95e11815d8f0.jpg",
+            "navigation_label": "7:00 PM",
+            "subheading": "Doors Open",
+            "title": "The Arrival",
+            "content": "<p><strong>Content:</strong> Step into the world of <em>P-POP CULTURE LIVE</em>. Exclusive merch booths, photo zones, and pre-show music to set the vibe. Get in early and feel the energy building.<br/><br/></p>"
           }
         },
         "slide_QhzB4i": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1960",
-            "subheading": "Precision Engineering, Honest Pricing",
-            "title": "THE CRAFT",
-            "content": "<p>Savrin & Co. was built on an unwavering principle: A watch should be valued for its craftsmanship, not its marketing budget.</p><p>Every Montclair timepiece is made with the same premium materials used by the world’s leading brands—316L stainless steel for durability, sapphire crystal glass for clarity and scratch resistance, and precision Swiss and Japanese movements for unparalleled accuracy and reliability.</p><p>Luxury, without the markups</p>"
+            "image": "shopify://shop_images/0209dbb9f6b13c4b06d20dc15492c176.jpg",
+            "navigation_label": "8:00 PM",
+            "subheading": "Opening Acts",
+            "title": "The Hype Begins",
+            "content": "<p><br/>Hand-picked DJs and special guests will kick off the night with high-energy performances to get the crowd moving.<br/><br/></p>"
           }
         },
         "slide_gQBbW6": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1966",
-            "subheading": "The Truth About Luxury",
-            "title": "THE TRUTH",
-            "content": "<p>Today Savrin & Co. is a movement embraced by collectors who value quality over hype. It stands against overpriced prestige and proves that exceptional craftsmanship doesn’t require a $10,000 price tag. Luxury should be about appreciation, not exclusivity. A watch should be an investment in style, not in marketing gimmicks.</p><p>Montclair & Co. delivers the same precision, refinement, and prestige as the world’s top brands—without the excess.</p>"
+            "image": "shopify://shop_images/d32d109c477bc07ffcf4d4a711a01ba3.jpg",
+            "navigation_label": "9:00 PM",
+            "subheading": "Main Performance",
+            "title": "Karan Aujla Live",
+            "content": "<p><br/>The moment you’ve been waiting for — Karan Aujla hits the stage with his biggest hits and exclusive unreleased tracks. Lights, visuals, and sound you’ll never forget.<br/><br/></p>"
           }
         }
       },
@@ -361,8 +365,9 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Shop the look",
-        "content": "",
+        "image": "shopify://shop_images/DarkBlueModernPhotocentricMusicEventInstagramPostPortrait.png",
+        "title": "Get Your Tickets Before They’re Gone",
+        "content": "<p><br/>Toronto is the <strong>only city still available</strong> — all other tour stops are already <strong>SOLD OUT</strong>. Don’t wait until it’s too late.<br/><br/></p>",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -807,29 +812,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Can I buy tickets at the stadium or ticket box?",
+            "content": "<p><em>No, tickets will </em><em><strong>not</strong></em><em> be available at the venue.</em> All tickets must be purchased <strong>online in advance</strong> through our official site.<br/><br/></p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Will there be VIP or Meet & Greet passes?",
+            "content": "<p><br/>Yes! A limited number of <strong>VIP upgrades</strong> are available (first-come, first-served).<br/><br/></p>"
           }
         },
         "item_dVzHcd": {
           "type": "item",
           "settings": {
-            "title": "How do i return or exchange my Watch?",
-            "content": "<p>To initiate a return or exchange, please contact our customer support team. We will provide you with return instructions and a prepaid shipping label if applicable.<br/><br/></p>"
+            "title": "What time do doors open?",
+            "content": "<p><br/>Doors open at <strong>7:00 PM</strong>. We recommend arriving early to avoid delays.<br/><br/></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "What do I need to bring?",
+            "content": "<p>A valid <strong>photo ID</strong> and your <strong>digital ticket (QR code)</strong>. Screenshots are accepted if scannable.<br/><br/></p>"
           }
         }
       },
@@ -873,41 +878,13 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Worldwide Shipping",
-            "content": "<p>We deliver across the globe with fast and reliable shipping. Your Savrin & Co. timepiece is securely packaged and delivered with care.<br/><br/></p>"
-          }
-        },
-        "item_Qprdzf": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "30-Day Money-Back Guarantee",
-            "content": "<p>We stand behind our craftsmanship. If you're not completely satisfied, return your watch within 30 days for a full refund—no questions asked.<br/><br/></p>"
-          }
-        },
-        "item_GeyAJy": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Shop with confidence. We offer secure, encrypted payment options to ensure your transactions are safe and protected.<br/><br/></p>"
+            "title": "Digital Tickets Only",
+            "content": "<p>All tickets will be delivered <strong>instantly via email</strong> with a QR code for entry. No shipping. No waiting.<br/><br/><br/><br/></p>"
           }
         }
       },
       "block_order": [
-        "item_63KwXK",
-        "item_Qprdzf",
-        "item_GeyAJy"
+        "item_63KwXK"
       ],
       "name": "Text with icons",
       "settings": {
