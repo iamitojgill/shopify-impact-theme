@@ -111,6 +111,7 @@
         "item_bRYAxh",
         "item_GGtXjW"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
