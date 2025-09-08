@@ -229,7 +229,7 @@
         "headings_JfexPb": {
           "type": "headings",
           "settings": {
-            "heading_1": "25 October, 2025 (Saturday)",
+            "heading_1": "26 October, 2025 (Saturday)",
             "heading_2": "15 November, 2025",
             "heading_3": "06 December, 2025",
             "heading_4": "20 December, 2025",
@@ -283,7 +283,7 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p><em>$70 </em><em><strong>available selling fast</strong></em></p>",
+            "value_1": "<p><em>$199.99 </em><em><strong>available selling fast</strong></em></p>",
             "value_2": "<p><em>$300 </em> <strong>Sold Out</strong></p>",
             "value_3": "<p><em>$300 </em><strong>Sold Out</strong></p>",
             "value_4": "<p><em>$300 </em><strong>Sold Out</strong></p>",
@@ -465,51 +465,11 @@
     },
     "shop_the_look_dLq4hE": {
       "type": "shop-the-look",
-      "blocks": {
-        "product_iBygeU": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "horizontal_position": 52,
-            "vertical_position": 25
-          }
-        },
-        "product_Hh3BWm": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "horizontal_position": 75,
-            "vertical_position": 53
-          }
-        },
-        "product_DWhnAU": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "horizontal_position": 33,
-            "vertical_position": 73
-          }
-        },
-        "product_A3XbXd": {
-          "type": "product",
-          "settings": {
-            "product": "serenade-42mm",
-            "horizontal_position": 30,
-            "vertical_position": 30
-          }
-        }
-      },
-      "block_order": [
-        "product_iBygeU",
-        "product_Hh3BWm",
-        "product_DWhnAU",
-        "product_A3XbXd"
-      ],
       "name": "Shop the look",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "image": "shopify://shop_images/DarkBlueModernPhotocentricMusicEventInstagramPostPortrait.png",
+        "image": "shopify://shop_images/DarkBlueModernPhotocentricMusicEventInstagramPostPortrait_1_d7fba93a-658a-4007-9a77-d914eca28add.png",
         "title": "Get Your Tickets Before They’re Gone",
         "content": "<p><br/>Toronto is the <strong>only city still available</strong> — all other tour stops are already <strong>SOLD OUT</strong>. Don’t wait until it’s too late.<br/><br/></p>",
         "background": "",
